@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 🙀
+
+## Why I use github
+
+- Public visibilty of how i work on code
+- Sharing code with the world
+- As a mirror for https://codeberg.org/maunzCache/
 
 <!--
 **maunzCache/maunzCache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
